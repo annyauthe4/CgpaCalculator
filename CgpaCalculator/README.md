@@ -1,0 +1,1 @@
+This project calculate Cummulative Grade point average of a student. It takes the number of courses registered, the unit and the score a student gets in each course and then calculate the CGPA  
