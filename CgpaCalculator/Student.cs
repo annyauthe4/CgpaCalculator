@@ -13,6 +13,8 @@ namespace CgpaCalculator
         {
             try
             {
+
+
                 Console.WriteLine("How many course(s) do you offer?");
                 int.TryParse(Console.ReadLine(), out int courses);
 
